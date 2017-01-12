@@ -1,0 +1,56 @@
+/*
+ Theme Name:   BC4C Theme
+ Theme URI:    http://bc4c.org
+ Description:  A Spacious Child Theme for BC4C
+ Author:       The BC4C team 
+ Author URI:   bc4c.org
+ Template:     spacious
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  bc4c
+*/
+
+/* Begin Front page post snippets */
+
+.display-posts-listing li {
+  list-style: none;
+  padding: 1em;
+}
+
+/* End Front page post snippets */
+
+/* Begin Calendar listing */
+
+.event-title {
+    font-size: 24px;
+    padding-bottom: 0px;
+}
+.when {
+    font-size: 16px;
+    line-height: 24px;
+    padding-bottom: 0px;
+}
+.where {
+    font-size: 16px;
+    line-height: 24px;
+}
+.add-to-calendar {
+    font-size: 12px;
+    padding-bottom: 20px;
+    float: right;
+}
+.add-to-calendar .icon {
+    background-image: url('images/cal-icon.png');
+    background-size: 25px 25px;
+    display: block;
+    height: 25px;
+    width: 25px;
+
+}
+.event-details {
+    padding-bottom: 25px;
+}
+
+/* End Calendar listing */
