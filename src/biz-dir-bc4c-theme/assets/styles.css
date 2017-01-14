@@ -1,0 +1,23 @@
+.listing-actions {
+  display: none;
+}
+
+.listing-details {
+ margin: 0px;
+ margin-bottom: 1em;
+ padding-top: 0.5em;
+}
+
+.wpbdp-listing-excerpt > .listing-details > .wpbdp-field-organization_name a {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.wpbdp-listing-excerpt > .listing-details > .wpbdp-field-organization_name {
+    margin-bottom: 1.5em;
+}
+
+.wpbdp-listing-excerpt > .listing-details > .wpbdp-field-excerpt {
+    font-style: italic;
+    padding: 0.25em;
+}

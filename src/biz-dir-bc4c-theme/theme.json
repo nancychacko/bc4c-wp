@@ -1,0 +1,14 @@
+{
+    "name": "BC4C Org Direcory Theme",
+    "description": "An experimental theme for bc4c. See http://docs.businessdirectoryplugin.com/themes/creating-themes.html for details",
+    "version": "1.0",
+    "author": "The BC4C Team",
+    "author_email": "bc4c.org@gmail.com",
+    "author_url": "bc4c.org",
+    "requires": "4.0",
+    "assets": {
+        "css": [ "styles.css" ],
+        "js": []
+    },
+    "suggested_fields": [ "address", "zip", "phone", "website" ]
+}
